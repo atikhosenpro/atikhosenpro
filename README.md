@@ -84,4 +84,10 @@ Building modern WordPress plugins, AI-powered tools, and automation systems that
 
 *"Building digital solutions that make people's lives easier."*
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/atikhosenpro"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.ko-fi.com/atikhosenpro"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+</p>
+
 </div>
+
