@@ -9,20 +9,19 @@
 Building modern WordPress plugins, AI-powered tools, and automation systems that make people's work easier.
 
 <p>
-  <a href="https://github.com/atikhosenpro"><img src="https://img.shields.io/github/followers/atikhosenpro?style=for-the-badge&logo=github&color=181717&logoColor=white" /></a>
+  <a href="https://github.com/atikhosenpro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/atikhosenpro?style=for-the-badge&logo=github&color=181717&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=atikhosenpro&style=for-the-badge&color=2EA3F7" alt="Profile views" />
 </p>
 
 <p>
-  <a href="https://facebook.com/atikhosenpro"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/atikhosenpro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/atikhosenpro"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://youtube.com/@atikhosenpro"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/atikhosenpro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/atikhosenpro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/atikhosenpro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/atikhosenpro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/@atikhosenpro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/atikhosenpro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 </div>
-
 
 ---
 
@@ -67,7 +66,6 @@ Building modern WordPress plugins, AI-powered tools, and automation systems that
 
 </p>
 
-
 ---
 
 ## 📈 Contribution Graph
@@ -85,9 +83,8 @@ Building modern WordPress plugins, AI-powered tools, and automation systems that
 *"Building digital solutions that make people's lives easier."*
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/atikhosenpro"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-<a href="https://www.ko-fi.com/atikhosenpro"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+<a href="https://www.buymeacoffee.com/atikhosenpro" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.ko-fi.com/atikhosenpro" target="_blank" rel="noopener noreferrer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 </p>
 
 </div>
-
