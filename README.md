@@ -19,7 +19,7 @@ Building modern WordPress plugins, AI-powered tools and automation systems.
 
 ## 👨‍💻 About Me
 
-- 🇧🇩 Based in Bangladesh
+- 🏳️ Based in Bangladesh
 - 💼 WordPress & WooCommerce Developer
 - 🤖 AI Automation Enthusiast
 - ⚡ Building Open Source Plugins
