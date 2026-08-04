@@ -1,3 +1,5 @@
+<img width="1400" height="350" alt="atikhosen" src="https://github.com/user-attachments/assets/4e83f5fa-afe1-4024-bf5f-134fcac2618e" />
+
 <div align="center">
 
 # Hi 👋 I'm Atik Hosen
@@ -44,8 +46,6 @@ Building modern WordPress plugins, AI-powered tools and automation systems.
 
 ---
 
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -53,35 +53,6 @@ Building modern WordPress plugins, AI-powered tools and automation systems.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikhosenpro&theme=github-dark&hide_border=true"/>
 
 </p>
-
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://atikhosen.com">
-<img src="https://skillicons.dev/icons?i=wordpress" height="45"/>
-</a>
-
-<a href="https://github.com/atikhosenpro">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://linkedin.com/in/atikhosenpro">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://youtube.com/@atikhosenpro">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/>
-</a>
-
-<a href="mailto:atikhosenpro@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
