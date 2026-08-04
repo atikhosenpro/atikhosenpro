@@ -1,19 +1,28 @@
-<img width="1400" height="350" alt="atikhosen" src="https://github.com/user-attachments/assets/4e83f5fa-afe1-4024-bf5f-134fcac2618e" />
-
 <div align="center">
 
-# Hi 👋 I'm Atik Hosen
+<img width="1400" height="350" alt="atikhosen" src="https://github.com/user-attachments/assets/4e83f5fa-afe1-4024-bf5f-134fcac2618e" />
 
-### WordPress Developer • AI Automation • Chrome Extension Developer
+<h1>Hi 👋 I'm Atik Hosen</h1>
 
-Building modern WordPress plugins, AI-powered tools and automation systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=WordPress+Developer;WooCommerce+Specialist;AI+Automation+Builder;Chrome+Extension+Developer" alt="Typing SVG" />
+
+Building modern WordPress plugins, AI-powered tools, and automation systems that make people's work easier.
 
 <p>
-<a href="https://github.com/atikhosenpro"><img src="https://img.shields.io/github/followers/atikhosenpro?style=for-the-badge&logo=github" /></a>
-<a href="https://komarev.com/ghpvc/?username=atikhosenpro&style=for-the-badge" ><img src="https://komarev.com/ghpvc/?username=atikhosenpro&style=for-the-badge" /></a>
+  <a href="https://github.com/atikhosenpro"><img src="https://img.shields.io/github/followers/atikhosenpro?style=for-the-badge&logo=github&color=181717&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=atikhosenpro&style=for-the-badge&color=2EA3F7" alt="Profile views" />
+</p>
+
+<p>
+  <a href="https://facebook.com/atikhosenpro"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/atikhosenpro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/atikhosenpro"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/@atikhosenpro"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/atikhosenpro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 </div>
+
 
 ---
 
@@ -38,11 +47,26 @@ Building modern WordPress plugins, AI-powered tools and automation systems.
 
 ## 🛠 Tech Stack
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=php,wordpress,js,html,css,docker,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=php,js,html,css,docker,vscode"/>
 
 </p>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=wordpress,figma,photoshop,webflow"/>
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+
+<img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white">
+
+</p>
+
 
 ---
 
