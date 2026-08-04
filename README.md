@@ -4,7 +4,7 @@
 
 <h1>Hi 👋 I'm Atik Hosen</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=WordPress+Developer;WooCommerce+Specialist;AI+Automation+Builder;Chrome+Extension+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=WordPress+Developer;WooCommerce+Specialist;AI+Automation+Builder;Chrome+Extension+Developer;LMS+Specializes" alt="Typing SVG" />
 
 Building modern WordPress plugins, AI-powered tools, and automation systems that make people's work easier.
 
